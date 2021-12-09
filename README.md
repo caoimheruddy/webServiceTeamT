@@ -17,4 +17,3 @@ account to transfer to.
 Withdrawal - For withdrawal, the bank customer can specify the amount to withdraw and the 
 card that will be credited. 
 
-Balance  - The customer can request a balance on any account at any time.
